@@ -1,2 +1,2 @@
 # sentiment-analysis
-Sentiment analysis app
+Sentiment analysis app based on SVM and Naive Bayes algorithms.
